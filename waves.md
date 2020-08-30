@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Waves
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Waves artworks - oeuvres'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
