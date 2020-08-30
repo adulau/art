@@ -28,7 +28,8 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/adulaua
-
+flickr_url: https://www.flickr.com/photos/adulau
+photo_url: https://www.foo.be/photoblog
 # build settings
 markdown: kramdown
 
