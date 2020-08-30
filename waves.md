@@ -2,7 +2,7 @@
 title: Waves
 layout: landing
 description: 'Waves artworks - oeuvres'
-image: assets/images/pic07.jpg
+image: assets/images/art/waves-bleu.jpg
 nav-menu: true
 ---
 
