@@ -1,8 +1,8 @@
 ---
 layout: post
 title: About
-description: About/à propos de
-image: assets/images/pic11.jpg
+description: à propos de
+image: assets/images/art/me/viville-lo-2020.jpg
 nav-menu: true
 ---
 
